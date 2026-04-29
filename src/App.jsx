@@ -44,7 +44,7 @@ const skills = [
 
 const projects = [
   {
-  categories: ["Engineering"],
+  categories: ["engineering"],
   title: "Admin Calendar & Event Management System",
   type: "Fullstack Dashboard Feature",
   image: "https://github.com/user-attachments/assets/e346094c-3935-4485-ad2e-0a508c875a10",
