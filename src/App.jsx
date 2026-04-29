@@ -67,7 +67,7 @@ const projects = [
     "REST API"
   ],
   github: "https://github.com/svjat4/Kalender-Admin-Page4",
-  }.
+  },
   {
   categories: ["engineering"],
   title: "UMKM Jajanan Magetan Platform",
