@@ -428,7 +428,7 @@ export default function App() {
 
           <div className="hero-card reveal delay">
             <div className="orb" />
-            <div className="avatar">R</div>
+            <div className="avatar">R. Rahmat Rifai Arsandi</div>
             <span className="eyebrow">Professional Focus</span>
             <h3>Tech + AI + Business Hybrid</h3>
             <p>
