@@ -48,25 +48,19 @@ const projects = [
   title: "Admin Calendar & Event Management System",
   type: "Fullstack Dashboard Feature",
   image: "https://github.com/user-attachments/assets/e346094c-3935-4485-ad2e-0a508c875a10",
-  description: "Developed an interactive calendar and event management system integrated into an admin dashboard, enabling scheduling, event tracking, and collaboration features similar to modern productivity tools.",
-  impact: "Improved internal scheduling efficiency and event coordination by providing a centralized, interactive calendar system for team collaboration.",
+  description: "A fullstack calendar and event management feature built for an admin dashboard, enabling scheduling, event organization, and collaborative planning with an interactive and modern interface.",
+  impact: "Improves internal team productivity by centralizing scheduling, enhancing coordination, and simplifying event management workflows.",
   highlights: [
-    "Integrated FullCalendar with Vue.js for dynamic calendar visualization",
-    "Built event creation, editing, and deletion workflows",
-    "Implemented multi-view calendar (month, week, day)",
-    "Enabled event invitations and participant tracking",
-    "Designed interactive UI similar to Notion-style productivity tools",
-    "Seamless integration with Laravel backend via Inertia.js"
+    "Integrated FullCalendar for interactive calendar visualization",
+    "Supports multi-view modes (month, week, day)",
+    "Event creation, editing, and management system",
+    "Participant invitation and tracking features",
+    "Modern dashboard UI inspired by productivity tools",
+    "Seamless frontend-backend integration using Inertia.js"
   ],
-  stack: [
-    "Laravel",
-    "Vue.js",
-    "Inertia.js",
-    "FullCalendar",
-    "JavaScript",
-    "REST API"
-  ],
+  stack: ["Laravel", "Vue.js", "Inertia.js", "FullCalendar", "JavaScript", "REST API"],
   github: "https://github.com/svjat4/Kalender-Admin-Page4",
+  demo: "https://github.com/svjat4/Kalender-Admin-Page4"
   },
   {
   categories: ["engineering"],
